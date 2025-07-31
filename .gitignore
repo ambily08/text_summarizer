@@ -2,7 +2,7 @@
 .env
 
 # Python bytecode
-__pycache__/
+__pycache__
 *.pyc
 
 # Node.js dependencies
